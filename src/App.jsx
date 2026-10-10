@@ -128,8 +128,7 @@ const Hero = () => {
         </div>
         
         <div className="md:w-2/5 mt-16 md:mt-0 hidden md:block">
-           <div className="relative">
-             <div className="absolute inset-0 bg-gold-500 transform translate-x-4 translate-y-4"></div>
+           <div className="relative shadow-2xl">
              <img src="/profile.jpg" alt="Abiodun Adetayo" className="relative z-10 w-full h-[600px] object-cover" />
            </div>
         </div>
